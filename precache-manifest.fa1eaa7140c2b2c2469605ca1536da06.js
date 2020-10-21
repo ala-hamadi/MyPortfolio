@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "965e52aae5dbdf06d38620b20d6b11e3",
+    "revision": "a852f449e8aac1cdd1de5901e616e108",
     "url": "/MyPortfolio/index.html"
   },
   {
-    "revision": "83f0bbab5866eed76f40",
+    "revision": "430a4a147fad15260549",
     "url": "/MyPortfolio/static/css/main.60e40041.chunk.css"
   },
   {
-    "revision": "0d3ca1ee7abee70c2cfe",
-    "url": "/MyPortfolio/static/js/2.84f8ebc8.chunk.js"
+    "revision": "e115d6b0ef1048d396ce",
+    "url": "/MyPortfolio/static/js/2.2baa5b9a.chunk.js"
   },
   {
     "revision": "d0b30a1909a753c393e134caf98fa9bb",
-    "url": "/MyPortfolio/static/js/2.84f8ebc8.chunk.js.LICENSE.txt"
+    "url": "/MyPortfolio/static/js/2.2baa5b9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83f0bbab5866eed76f40",
-    "url": "/MyPortfolio/static/js/main.2617c7ff.chunk.js"
+    "revision": "430a4a147fad15260549",
+    "url": "/MyPortfolio/static/js/main.38ebf2c8.chunk.js"
   },
   {
     "revision": "0d8bee11d1469486e213",
     "url": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js"
+  },
+  {
+    "revision": "29239f80f1e23afa95617d6240c00c02",
+    "url": "/MyPortfolio/static/media/Covid-19.29239f80.PNG"
   },
   {
     "revision": "1649319851ceef6d7996fcd99c55001c",
