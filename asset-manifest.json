@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.ef965843.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.08cd5ab2.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.08cd5ab2.chunk.js.map",
+    "main.js": "/MyPortfolio/static/js/main.f74511a0.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.f74511a0.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js.map",
-    "static/js/2.0c705d4d.chunk.js": "/MyPortfolio/static/js/2.0c705d4d.chunk.js",
-    "static/js/2.0c705d4d.chunk.js.map": "/MyPortfolio/static/js/2.0c705d4d.chunk.js.map",
+    "static/js/2.6fe71fba.chunk.js": "/MyPortfolio/static/js/2.6fe71fba.chunk.js",
+    "static/js/2.6fe71fba.chunk.js.map": "/MyPortfolio/static/js/2.6fe71fba.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.bc3af3c7403b3f1345406e92b6948f0d.js": "/MyPortfolio/precache-manifest.bc3af3c7403b3f1345406e92b6948f0d.js",
+    "precache-manifest.a2e3271ad97b6d1e19413af42b4b8593.js": "/MyPortfolio/precache-manifest.a2e3271ad97b6d1e19413af42b4b8593.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
     "static/css/main.ef965843.chunk.css.map": "/MyPortfolio/static/css/main.ef965843.chunk.css.map",
-    "static/js/2.0c705d4d.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.0c705d4d.chunk.js.LICENSE.txt",
+    "static/js/2.6fe71fba.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.6fe71fba.chunk.js.LICENSE.txt",
     "static/media/Covid-19.PNG": "/MyPortfolio/static/media/Covid-19.29239f80.PNG",
     "static/media/Messenger.png": "/MyPortfolio/static/media/Messenger.36675dcc.png",
+    "static/media/Netflix.PNG": "/MyPortfolio/static/media/Netflix.c3795729.PNG",
     "static/media/SocialWheezy.PNG": "/MyPortfolio/static/media/SocialWheezy.16493198.PNG",
     "static/media/certificate1.PNG": "/MyPortfolio/static/media/certificate1.aed4eeff.PNG",
     "static/media/certificate2.PNG": "/MyPortfolio/static/media/certificate2.bbf19242.PNG",
@@ -28,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7e73d9a0.js",
-    "static/js/2.0c705d4d.chunk.js",
+    "static/js/2.6fe71fba.chunk.js",
     "static/css/main.ef965843.chunk.css",
-    "static/js/main.08cd5ab2.chunk.js"
+    "static/js/main.f74511a0.chunk.js"
   ]
 }
