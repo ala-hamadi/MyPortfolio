@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.ef965843.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.eb2869b3.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.eb2869b3.chunk.js.map",
+    "main.js": "/MyPortfolio/static/js/main.535e9ef3.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.535e9ef3.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js.map",
-    "static/js/2.6fe71fba.chunk.js": "/MyPortfolio/static/js/2.6fe71fba.chunk.js",
-    "static/js/2.6fe71fba.chunk.js.map": "/MyPortfolio/static/js/2.6fe71fba.chunk.js.map",
+    "static/js/2.a5e85609.chunk.js": "/MyPortfolio/static/js/2.a5e85609.chunk.js",
+    "static/js/2.a5e85609.chunk.js.map": "/MyPortfolio/static/js/2.a5e85609.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.25470ae19ccf41b70c0d9d73bf2bba7b.js": "/MyPortfolio/precache-manifest.25470ae19ccf41b70c0d9d73bf2bba7b.js",
+    "precache-manifest.caaa7c3fc0e351017357e4e3e48d15c9.js": "/MyPortfolio/precache-manifest.caaa7c3fc0e351017357e4e3e48d15c9.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
     "static/css/main.ef965843.chunk.css.map": "/MyPortfolio/static/css/main.ef965843.chunk.css.map",
-    "static/js/2.6fe71fba.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.6fe71fba.chunk.js.LICENSE.txt",
+    "static/js/2.a5e85609.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.a5e85609.chunk.js.LICENSE.txt",
     "static/media/Covid-19.PNG": "/MyPortfolio/static/media/Covid-19.29239f80.PNG",
     "static/media/Messenger.png": "/MyPortfolio/static/media/Messenger.36675dcc.png",
     "static/media/Netflix.PNG": "/MyPortfolio/static/media/Netflix.c3795729.PNG",
@@ -24,13 +24,14 @@
     "static/media/certificate6.PNG": "/MyPortfolio/static/media/certificate6.ef544ee5.PNG",
     "static/media/certificate7.PNG": "/MyPortfolio/static/media/certificate7.e93547a7.PNG",
     "static/media/certificate8.PNG": "/MyPortfolio/static/media/certificate8.6e4d89b4.PNG",
+    "static/media/certificate9.PNG": "/MyPortfolio/static/media/certificate9.2d001ecb.PNG",
     "static/media/font-awesome.min.css": "/MyPortfolio/static/media/fontawesome-webfont.e6cf7c6e.woff2",
     "static/media/me.jpg": "/MyPortfolio/static/media/me.05a06ff2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7e73d9a0.js",
-    "static/js/2.6fe71fba.chunk.js",
+    "static/js/2.a5e85609.chunk.js",
     "static/css/main.ef965843.chunk.css",
-    "static/js/main.eb2869b3.chunk.js"
+    "static/js/main.535e9ef3.chunk.js"
   ]
 }
