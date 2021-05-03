@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8ec53087c5f3276cc8d4b37f53d8124",
+    "revision": "3526f41eeeba76ce6178af68b1fa3f6a",
     "url": "/MyPortfolio/index.html"
   },
   {
-    "revision": "15e16092f0db4aba4b8a",
+    "revision": "193366abbc4fdcf1711d",
     "url": "/MyPortfolio/static/css/main.ef965843.chunk.css"
   },
   {
-    "revision": "9aac719acc03b147b42f",
-    "url": "/MyPortfolio/static/js/2.a5e85609.chunk.js"
+    "revision": "d407c463b728089f759c",
+    "url": "/MyPortfolio/static/js/2.5943f7f9.chunk.js"
   },
   {
     "revision": "d0b30a1909a753c393e134caf98fa9bb",
-    "url": "/MyPortfolio/static/js/2.a5e85609.chunk.js.LICENSE.txt"
+    "url": "/MyPortfolio/static/js/2.5943f7f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15e16092f0db4aba4b8a",
-    "url": "/MyPortfolio/static/js/main.4b9f11b6.chunk.js"
+    "revision": "193366abbc4fdcf1711d",
+    "url": "/MyPortfolio/static/js/main.2b89aa73.chunk.js"
   },
   {
     "revision": "0d8bee11d1469486e213",
     "url": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js"
+  },
+  {
+    "revision": "98dfbd1e30ad373eba2cab7e3071fcb6",
+    "url": "/MyPortfolio/static/media/ChatApp.98dfbd1e.PNG"
   },
   {
     "revision": "29239f80f1e23afa95617d6240c00c02",
