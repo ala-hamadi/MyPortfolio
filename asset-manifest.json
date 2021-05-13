@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.ef965843.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.2b89aa73.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.2b89aa73.chunk.js.map",
+    "main.js": "/MyPortfolio/static/js/main.79e3a65e.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.79e3a65e.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js.map",
-    "static/js/2.5943f7f9.chunk.js": "/MyPortfolio/static/js/2.5943f7f9.chunk.js",
-    "static/js/2.5943f7f9.chunk.js.map": "/MyPortfolio/static/js/2.5943f7f9.chunk.js.map",
+    "static/js/2.7af45859.chunk.js": "/MyPortfolio/static/js/2.7af45859.chunk.js",
+    "static/js/2.7af45859.chunk.js.map": "/MyPortfolio/static/js/2.7af45859.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.837a1e94e20aa51a2f3c87f56baf2209.js": "/MyPortfolio/precache-manifest.837a1e94e20aa51a2f3c87f56baf2209.js",
+    "precache-manifest.80b40c14cd50ce57e7499db2d5e34bc4.js": "/MyPortfolio/precache-manifest.80b40c14cd50ce57e7499db2d5e34bc4.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
     "static/css/main.ef965843.chunk.css.map": "/MyPortfolio/static/css/main.ef965843.chunk.css.map",
-    "static/js/2.5943f7f9.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.5943f7f9.chunk.js.LICENSE.txt",
+    "static/js/2.7af45859.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.7af45859.chunk.js.LICENSE.txt",
     "static/media/ChatApp.PNG": "/MyPortfolio/static/media/ChatApp.98dfbd1e.PNG",
     "static/media/Covid-19.PNG": "/MyPortfolio/static/media/Covid-19.29239f80.PNG",
+    "static/media/LinkedIn.PNG": "/MyPortfolio/static/media/LinkedIn.ae6cddfe.PNG",
     "static/media/Messenger.png": "/MyPortfolio/static/media/Messenger.36675dcc.png",
     "static/media/Netflix.PNG": "/MyPortfolio/static/media/Netflix.c3795729.PNG",
     "static/media/SocialWheezy.PNG": "/MyPortfolio/static/media/SocialWheezy.16493198.PNG",
@@ -31,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7e73d9a0.js",
-    "static/js/2.5943f7f9.chunk.js",
+    "static/js/2.7af45859.chunk.js",
     "static/css/main.ef965843.chunk.css",
-    "static/js/main.2b89aa73.chunk.js"
+    "static/js/main.79e3a65e.chunk.js"
   ]
 }
