@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5231551e60e2dba84aeeaed17b6c72ef",
+    "revision": "8a495214d88bb80d56e5a7cf226d0565",
     "url": "/MyPortfolio/index.html"
   },
   {
-    "revision": "c2ab863f480e5d75ee6c",
-    "url": "/MyPortfolio/static/css/main.ef965843.chunk.css"
+    "revision": "e8476281640b0e17a376",
+    "url": "/MyPortfolio/static/css/main.53ad53f7.chunk.css"
   },
   {
-    "revision": "37b2d9a2c82388423fea",
-    "url": "/MyPortfolio/static/js/2.7af45859.chunk.js"
+    "revision": "9fd185deaf4df90a53b5",
+    "url": "/MyPortfolio/static/js/2.36030d97.chunk.js"
   },
   {
     "revision": "d0b30a1909a753c393e134caf98fa9bb",
-    "url": "/MyPortfolio/static/js/2.7af45859.chunk.js.LICENSE.txt"
+    "url": "/MyPortfolio/static/js/2.36030d97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2ab863f480e5d75ee6c",
-    "url": "/MyPortfolio/static/js/main.79e3a65e.chunk.js"
+    "revision": "e8476281640b0e17a376",
+    "url": "/MyPortfolio/static/js/main.6e26af61.chunk.js"
   },
   {
     "revision": "0d8bee11d1469486e213",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1649319851ceef6d7996fcd99c55001c",
     "url": "/MyPortfolio/static/media/SocialWheezy.16493198.PNG"
+  },
+  {
+    "revision": "521d06ff149908b1b2542edeaeb29944",
+    "url": "/MyPortfolio/static/media/StrongPassword.521d06ff.PNG"
   },
   {
     "revision": "aed4eefff2987b24714df88a552b6b1a",

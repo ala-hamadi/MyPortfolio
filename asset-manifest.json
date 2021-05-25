@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.ef965843.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.79e3a65e.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.79e3a65e.chunk.js.map",
+    "main.css": "/MyPortfolio/static/css/main.53ad53f7.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.6e26af61.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.6e26af61.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js.map",
-    "static/js/2.7af45859.chunk.js": "/MyPortfolio/static/js/2.7af45859.chunk.js",
-    "static/js/2.7af45859.chunk.js.map": "/MyPortfolio/static/js/2.7af45859.chunk.js.map",
+    "static/js/2.36030d97.chunk.js": "/MyPortfolio/static/js/2.36030d97.chunk.js",
+    "static/js/2.36030d97.chunk.js.map": "/MyPortfolio/static/js/2.36030d97.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.80b40c14cd50ce57e7499db2d5e34bc4.js": "/MyPortfolio/precache-manifest.80b40c14cd50ce57e7499db2d5e34bc4.js",
+    "precache-manifest.deb37150ca837ff9f096d67bfcade9b0.js": "/MyPortfolio/precache-manifest.deb37150ca837ff9f096d67bfcade9b0.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
-    "static/css/main.ef965843.chunk.css.map": "/MyPortfolio/static/css/main.ef965843.chunk.css.map",
-    "static/js/2.7af45859.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.7af45859.chunk.js.LICENSE.txt",
+    "static/css/main.53ad53f7.chunk.css.map": "/MyPortfolio/static/css/main.53ad53f7.chunk.css.map",
+    "static/js/2.36030d97.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.36030d97.chunk.js.LICENSE.txt",
     "static/media/ChatApp.PNG": "/MyPortfolio/static/media/ChatApp.98dfbd1e.PNG",
     "static/media/Covid-19.PNG": "/MyPortfolio/static/media/Covid-19.29239f80.PNG",
     "static/media/LinkedIn.PNG": "/MyPortfolio/static/media/LinkedIn.ae6cddfe.PNG",
     "static/media/Messenger.png": "/MyPortfolio/static/media/Messenger.36675dcc.png",
     "static/media/Netflix.PNG": "/MyPortfolio/static/media/Netflix.c3795729.PNG",
     "static/media/SocialWheezy.PNG": "/MyPortfolio/static/media/SocialWheezy.16493198.PNG",
+    "static/media/StrongPassword.PNG": "/MyPortfolio/static/media/StrongPassword.521d06ff.PNG",
     "static/media/certificate1.PNG": "/MyPortfolio/static/media/certificate1.aed4eeff.PNG",
     "static/media/certificate2.PNG": "/MyPortfolio/static/media/certificate2.bbf19242.PNG",
     "static/media/certificate3.PNG": "/MyPortfolio/static/media/certificate3.f362b43d.PNG",
@@ -32,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7e73d9a0.js",
-    "static/js/2.7af45859.chunk.js",
-    "static/css/main.ef965843.chunk.css",
-    "static/js/main.79e3a65e.chunk.js"
+    "static/js/2.36030d97.chunk.js",
+    "static/css/main.53ad53f7.chunk.css",
+    "static/js/main.6e26af61.chunk.js"
   ]
 }
