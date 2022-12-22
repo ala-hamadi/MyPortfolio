@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7becd52129be1f7b6e782af48da0eee0",
+    "revision": "4cd854b26af5fd8c011496470b5827cd",
     "url": "/MyPortfolio/index.html"
   },
   {
-    "revision": "4a607701104ce9bcba3f",
+    "revision": "683ad6e95a887fc52911",
     "url": "/MyPortfolio/static/css/main.53ad53f7.chunk.css"
   },
   {
-    "revision": "cf135f8fd55b17dab9e4",
-    "url": "/MyPortfolio/static/js/2.2e0f81d6.chunk.js"
+    "revision": "b989fc08ccad893bfc92",
+    "url": "/MyPortfolio/static/js/2.804f7748.chunk.js"
   },
   {
     "revision": "d0b30a1909a753c393e134caf98fa9bb",
-    "url": "/MyPortfolio/static/js/2.2e0f81d6.chunk.js.LICENSE.txt"
+    "url": "/MyPortfolio/static/js/2.804f7748.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a607701104ce9bcba3f",
-    "url": "/MyPortfolio/static/js/main.ea54add6.chunk.js"
+    "revision": "683ad6e95a887fc52911",
+    "url": "/MyPortfolio/static/js/main.286449c4.chunk.js"
   },
   {
     "revision": "0d8bee11d1469486e213",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "521d06ff149908b1b2542edeaeb29944",
     "url": "/MyPortfolio/static/media/StrongPassword.521d06ff.PNG"
+  },
+  {
+    "revision": "1efb7be518e3729857b98a663e624bdf",
+    "url": "/MyPortfolio/static/media/Uber-Eats.1efb7be5.png"
   },
   {
     "revision": "aed4eefff2987b24714df88a552b6b1a",

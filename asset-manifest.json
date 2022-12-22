@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.53ad53f7.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.ea54add6.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.ea54add6.chunk.js.map",
+    "main.js": "/MyPortfolio/static/js/main.286449c4.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.286449c4.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js.map",
-    "static/js/2.2e0f81d6.chunk.js": "/MyPortfolio/static/js/2.2e0f81d6.chunk.js",
-    "static/js/2.2e0f81d6.chunk.js.map": "/MyPortfolio/static/js/2.2e0f81d6.chunk.js.map",
+    "static/js/2.804f7748.chunk.js": "/MyPortfolio/static/js/2.804f7748.chunk.js",
+    "static/js/2.804f7748.chunk.js.map": "/MyPortfolio/static/js/2.804f7748.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.411a9148278e34f7c57fbde8a6111a9c.js": "/MyPortfolio/precache-manifest.411a9148278e34f7c57fbde8a6111a9c.js",
+    "precache-manifest.f4150cda1e16a453a14d4d4dd8594e89.js": "/MyPortfolio/precache-manifest.f4150cda1e16a453a14d4d4dd8594e89.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
     "static/css/main.53ad53f7.chunk.css.map": "/MyPortfolio/static/css/main.53ad53f7.chunk.css.map",
-    "static/js/2.2e0f81d6.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.2e0f81d6.chunk.js.LICENSE.txt",
+    "static/js/2.804f7748.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.804f7748.chunk.js.LICENSE.txt",
     "static/media/ChatApp.PNG": "/MyPortfolio/static/media/ChatApp.98dfbd1e.PNG",
     "static/media/Covid-19.PNG": "/MyPortfolio/static/media/Covid-19.29239f80.PNG",
     "static/media/LinkedIn.PNG": "/MyPortfolio/static/media/LinkedIn.ae6cddfe.PNG",
@@ -19,6 +19,7 @@
     "static/media/Netflix.PNG": "/MyPortfolio/static/media/Netflix.c3795729.PNG",
     "static/media/SocialWheezy.PNG": "/MyPortfolio/static/media/SocialWheezy.16493198.PNG",
     "static/media/StrongPassword.PNG": "/MyPortfolio/static/media/StrongPassword.521d06ff.PNG",
+    "static/media/Uber-Eats.png": "/MyPortfolio/static/media/Uber-Eats.1efb7be5.png",
     "static/media/certificate1.PNG": "/MyPortfolio/static/media/certificate1.aed4eeff.PNG",
     "static/media/certificate2.PNG": "/MyPortfolio/static/media/certificate2.bbf19242.PNG",
     "static/media/certificate3.PNG": "/MyPortfolio/static/media/certificate3.f362b43d.PNG",
@@ -33,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7e73d9a0.js",
-    "static/js/2.2e0f81d6.chunk.js",
+    "static/js/2.804f7748.chunk.js",
     "static/css/main.53ad53f7.chunk.css",
-    "static/js/main.ea54add6.chunk.js"
+    "static/js/main.286449c4.chunk.js"
   ]
 }
