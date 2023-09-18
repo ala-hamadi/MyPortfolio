@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.53ad53f7.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.7e0a83ca.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.7e0a83ca.chunk.js.map",
+    "main.css": "/MyPortfolio/static/css/main.b33ebbb9.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.dfc4048d.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.dfc4048d.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.7e73d9a0.js.map",
-    "static/js/2.804f7748.chunk.js": "/MyPortfolio/static/js/2.804f7748.chunk.js",
-    "static/js/2.804f7748.chunk.js.map": "/MyPortfolio/static/js/2.804f7748.chunk.js.map",
+    "static/js/2.666f22db.chunk.js": "/MyPortfolio/static/js/2.666f22db.chunk.js",
+    "static/js/2.666f22db.chunk.js.map": "/MyPortfolio/static/js/2.666f22db.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.70cbf49c2a14d9ab73c4b1e75f45540d.js": "/MyPortfolio/precache-manifest.70cbf49c2a14d9ab73c4b1e75f45540d.js",
+    "precache-manifest.ba6e4d683f83ebb31fa37824238de8f6.js": "/MyPortfolio/precache-manifest.ba6e4d683f83ebb31fa37824238de8f6.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
-    "static/css/main.53ad53f7.chunk.css.map": "/MyPortfolio/static/css/main.53ad53f7.chunk.css.map",
-    "static/js/2.804f7748.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.804f7748.chunk.js.LICENSE.txt",
+    "static/css/main.b33ebbb9.chunk.css.map": "/MyPortfolio/static/css/main.b33ebbb9.chunk.css.map",
+    "static/js/2.666f22db.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.666f22db.chunk.js.LICENSE.txt",
     "static/media/ChatApp.PNG": "/MyPortfolio/static/media/ChatApp.98dfbd1e.PNG",
     "static/media/Covid-19.PNG": "/MyPortfolio/static/media/Covid-19.29239f80.PNG",
     "static/media/LinkedIn.PNG": "/MyPortfolio/static/media/LinkedIn.ae6cddfe.PNG",
@@ -29,13 +29,15 @@
     "static/media/certificate7.PNG": "/MyPortfolio/static/media/certificate7.e93547a7.PNG",
     "static/media/certificate8.PNG": "/MyPortfolio/static/media/certificate8.6e4d89b4.PNG",
     "static/media/certificate9.PNG": "/MyPortfolio/static/media/certificate9.2d001ecb.PNG",
+    "static/media/ecowaste.ico": "/MyPortfolio/static/media/ecowaste.560a36a1.ico",
+    "static/media/esprin.jfif": "/MyPortfolio/static/media/esprin.daf0ae78.jfif",
     "static/media/font-awesome.min.css": "/MyPortfolio/static/media/fontawesome-webfont.e6cf7c6e.woff2",
     "static/media/me.jpg": "/MyPortfolio/static/media/me.05a06ff2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7e73d9a0.js",
-    "static/js/2.804f7748.chunk.js",
-    "static/css/main.53ad53f7.chunk.css",
-    "static/js/main.7e0a83ca.chunk.js"
+    "static/js/2.666f22db.chunk.js",
+    "static/css/main.b33ebbb9.chunk.css",
+    "static/js/main.dfc4048d.chunk.js"
   ]
 }
