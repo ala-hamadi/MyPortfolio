@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.4eae9129.css",
-    "main.js": "/MyPortfolio/static/js/main.c30e9c86.js",
+    "main.js": "/MyPortfolio/static/js/main.8862f73f.js",
     "static/media/Netflix.PNG": "/MyPortfolio/static/media/Netflix.42925f47e2fa202edf56.PNG",
     "static/media/certificate4.PNG": "/MyPortfolio/static/media/certificate4.23b25783d91887f4c983.PNG",
     "static/media/certificate8.PNG": "/MyPortfolio/static/media/certificate8.d683d535532ce9e35222.PNG",
@@ -14,6 +14,7 @@
     "static/media/ChatApp.PNG": "/MyPortfolio/static/media/ChatApp.58f1e39c09de39d15a42.PNG",
     "static/media/Covid-19.PNG": "/MyPortfolio/static/media/Covid-19.696c65ca10f77f9f2aee.PNG",
     "static/media/fontawesome-webfont.ttf?v=4.5.0": "/MyPortfolio/static/media/fontawesome-webfont.f0af1680f082547a7aae.ttf",
+    "static/media/Ala-radio.jpg": "/MyPortfolio/static/media/Ala-radio.5ceda2ff60295875dcd6.jpg",
     "static/media/Uber-Eats.png": "/MyPortfolio/static/media/Uber-Eats.941b2023047ef16cce06.png",
     "static/media/LinkedIn.PNG": "/MyPortfolio/static/media/LinkedIn.117ca56ba648304dbddc.PNG",
     "static/media/fontawesome-webfont.woff?v=4.5.0": "/MyPortfolio/static/media/fontawesome-webfont.f7f1738ca345185e0185.woff",
@@ -27,13 +28,12 @@
     "static/media/certificate3.PNG": "/MyPortfolio/static/media/certificate3.7659c43530d3a804b80a.PNG",
     "static/media/certificate2.PNG": "/MyPortfolio/static/media/certificate2.1421abe392e629bd4930.PNG",
     "static/media/ecowaste.ico": "/MyPortfolio/static/media/ecowaste.926802b10ab64e912524.ico",
-    "static/media/me.jpg": "/MyPortfolio/static/media/me.0ea7c71bd221400aa0d1.jpg",
     "index.html": "/MyPortfolio/index.html",
     "main.4eae9129.css.map": "/MyPortfolio/static/css/main.4eae9129.css.map",
-    "main.c30e9c86.js.map": "/MyPortfolio/static/js/main.c30e9c86.js.map"
+    "main.8862f73f.js.map": "/MyPortfolio/static/js/main.8862f73f.js.map"
   },
   "entrypoints": [
     "static/css/main.4eae9129.css",
-    "static/js/main.c30e9c86.js"
+    "static/js/main.8862f73f.js"
   ]
 }
